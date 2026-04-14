@@ -1,0 +1,2 @@
+// 文字列からある文字を除く方法
+// S.erase(remove(S.begin(), S.end(), 'o'), S.end());
